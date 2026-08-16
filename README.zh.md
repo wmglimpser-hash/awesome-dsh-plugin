@@ -251,6 +251,7 @@ dsh plugin --profile web add dshmarket
 - [zoumutou/dsh-web-preview](https://github.com/zoumutou/dsh-web-preview) — 侧边网页预览面板：本地静态托管、Markdown/代码/图片预览、非静态项目一键运行（Cargo/npm/Go/Python）实时日志、文件直接拖入对话（保存到工作区）、网页元素标记批注、404 时工作区文件搜索、链接点击接管到侧边预览。
 - [ZSeven-W/dsh-openpencil](https://github.com/ZSeven-W/dsh-openpencil) — OpenPencil 设计预览与编辑插件。
 - [zylzyqzz/dsh-mobile-pwa](https://github.com/zylzyqzz/dsh-mobile-pwa) — 基于 dsh-mobile-gate 的完整移动端 PWA：安全远程访问网关 + 可安装到主屏（manifest + service worker）+ 离线可用 + 触屏手势（下拉刷新/边缘返弹/捏合缩放字体）+ agent 完成推送 + 触屏优先布局，桌面零影响。
+- [wmglimpser-hash/dsh-file-links](https://github.com/wmglimpser-hash/dsh-file-links) — 把回复中的绝对路径变成可点击链接：左键打开文件，右键菜单内联预览或在资源管理器中定位文件；复用官方 openPath，零运行时依赖。
 
 ### 🎭 主题与外观
 
