@@ -251,6 +251,7 @@ dsh plugin --profile web add dshmarket
 - [zoumutou/dsh-web-preview](https://github.com/zoumutou/dsh-web-preview) - Side web-preview panel: local static hosting, Markdown/code/image preview, one-click run of non-static projects (Cargo/npm/Go/Python) with live logs, drag files into the chat (saved to the workspace), element mark & annotate, workspace file search on 404, and link-click takeover into the side panel.
 - [ZSeven-W/dsh-openpencil](https://github.com/ZSeven-W/dsh-openpencil) - OpenPencil design preview and editing plugin.
 - [zylzyqzz/dsh-mobile-pwa](https://github.com/zylzyqzz/dsh-mobile-pwa) - Complete mobile PWA for DSH, built on dsh-mobile-gate: secure remote-access gateway plus install-to-homescreen (manifest + service worker), offline capability, touch gestures (pull-to-refresh, edge-swipe back, pinch-zoom font), agent-done push notifications, and touch-first layout — desktop unaffected.
+- [wmglimpser-hash/dsh-file-links](https://github.com/wmglimpser-hash/dsh-file-links) - Clickable absolute file paths in Web UI replies: left-click opens the file, right-click menu previews content inline or reveals the file in Explorer; reuses the official openPath, zero runtime dependencies.
 
 ### Themes & Appearance
 
